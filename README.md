@@ -22,7 +22,7 @@ Sua missão será criar um CRUD (Create, Read, Update, Delete) para gerenciar os
 
 Você irá construir:
 1. **Backend** em **.Net Core** para fornecer APIs REST.
-2. **Frontend** com **Razor Pages** para a interface do usuário.
+2. **Frontend** com **Angular** para a interface do usuário.
 
 ---
 
@@ -84,7 +84,7 @@ Você irá construir:
   - **SQL Server** ou **MongoDb** (para banco de dados)
 
 - **Frontend**:
-  - **Razor Pages** para construção de interfaces dinâmicas.
+  - **Angular** para construção de interfaces dinâmicas.
   - **Bootstrap** (ou outra biblioteca CSS) para estilização.
 
 ---
@@ -97,7 +97,7 @@ Você irá construir:
    - Crie os endpoints para gerenciar os anéis.
 
 2. **Configuração do Frontend**:
-   - Crie um projeto com **Razor Pages**.
+   - Crie um projeto com **Angular**.
    - Implemente a comunicação com a API.
    - Configure o layout e navegação entre as telas.
 
